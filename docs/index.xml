@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masters of Social Gastronomy</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Masters of Social Gastronomy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About M.S.G.</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Once upon a time like a thousand years ago we had a conversation that was like &amp;ldquo;why isn&amp;rsquo;t there a S.A.S.S. about food?&amp;rdquo; and the end result was let&amp;rsquo;s do this.
+We talk about food, you drink couple hundred beers, everyone wins.
+  Sarah Lohman of Four Pounds Flour is a historic gastronomist dedicated to uncovering the flavors of the past and using them to inspire contemporary cooking. She’ll drink colonial cocktails at daybreak and eat a moose’s face, all in the name of history.</description>
+    </item>
+    
+    <item>
+      <title>Masters of Social Gastronomy Podcast</title>
+      <link>http://example.org/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/podcast/</guid>
+      <description> You can stream some of our past talks below, or find the MSG Podcast on SoundCloud.
+Previous Episodes </description>
+    </item>
+    
+    <item>
+      <title>Past Events</title>
+      <link>http://example.org/events/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/events/past/</guid>
+      <description>Maybe you&amp;rsquo;d like to hear about our current events?
+   Date Location Topic     May 7, 2018 Kings County Distillery Illicit Substances   May 8, 2018 Institute of Culinary Education Strange Meat   January 29, 2018 Kings County Distillery Hometown Booze   October 25, 2017 Kings County Distillery A History of Drunkenness   September 12, 2017 Institute of Culinary Education Garlic Mania   August 11, 2017 City Winery A History of Wine   May 23, 2017 Industry City Distillery The History of Cocktails   August 29, 2016 Institute of Culinary Education The Story of Sourdough: Starters to Science   March 29, 2016 Institute of Culinary Education Fried Foods   July, 2016 Old Stone House Barbecue   March, 2016 Littlefield Fried Foods   January, 2016 Museum of Food and Drink Artificial and Natural Flavors   October, 2015 Littlefield Foods that Go Bump in the Night   July, 2015 Brooklyn Botanic Garden Floral Flavors   February, 2015 Littlefield The World&amp;rsquo;s Strangest Foods   January, 2015 Littlefield Aphrodisiacs   November, 2014 Littlefield Pie   August, 2014 Littlefield Soda   May, 2014 Littlefield Food of the High Seas   April, 2014 Littlefield Ice Cream   March, 2014 Littlefield Chocolate   February, 2014 Littlefield Hot Peppers and Spicy Food   January, 2014 Royal Palms Shuffleboard Club Food of the High Seas (cancelled)   November, 2013 Brooklyn Kitchen Thanksgiving   September, 2013 Brooklyn Kitchen Barbecue   August, 2013 Brooklyn Kitchen Chinese Takeout   July, 2013 Brooklyn Kitchen Cocktails   May, 2013 Googa Mooga Future of Food   April, 2013 Public Assembly Sugar   March, 2013 Public Assembly Illicit Substances   February, 2013 Public Assembly Sandwiches   January, 2013 Public Assembly Monosodium Glutamate   November, 2012 Public Assembly Dieting   October, 2012 Public Assembly Taboo Foods   September, 2012 Public Assembly Preservatives and Convenience Foods   August, 2012 Public Assembly Booze   July, 2012 Public Assembly Ice Cream   June, 2012 Public Assembly Gelatin    </description>
+    </item>
+    
+    <item>
+      <title>Upcoming &#43; Past Events</title>
+      <link>http://example.org/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/events/</guid>
+      <description>The sensible thing to do is to just sign up for our email list to know when this stuff comes out.
+You can also check out our past events if you&amp;rsquo;re curious (there&amp;rsquo;s about a million years of them), or our podcast if you just can&amp;rsquo;t wait!
+July 30: Ice Cream ! I scream, you scream, we all scream for us screaming about ice cream at Caveat. It&amp;rsquo;ll be approximately ten zillion degrees outside and we&amp;rsquo;ll all be dying and dying and dying and yearning for that sweet embrace of an icy, milky death.</description>
+    </item>
+    
+  </channel>
+</rss>

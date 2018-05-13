@@ -1,0 +1,41 @@
+.title {
+  padding: 100px 0;
+  background: url('/images/wormz.png');
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 60px !important;
+}
+.title h1 {
+  max-width: 50%;
+  font-size: 48px;
+  margin: 0 auto;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+}
+.title a {
+  color: cyan;
+  text-shadow: 3px 3px red;
+}
+
+.footer {
+  margin-top: 60px;
+  padding: 40px 0;
+  text-align: left;
+  font-size: 14px;
+}
+
+.podcast {
+  margin-bottom: 30px;
+}
+
+body {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.headshot {
+  border-radius: 100px;
+  max-width: 150px;
+  margin-bottom: 1em
+}

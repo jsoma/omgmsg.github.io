@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {{ if .Site.GoogleAnalytics }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', '{{ .Site.GoogleAnalytics }}');
+  </script>
+  {{ end }}
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "/css/bulma.min.css" | relURL }}">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:900i" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
+</head>
+
+<body>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">#omgmsg</a>
+      <a class="navbar-item" href="/about">About</a>
+      <a class="navbar-item" href="/events">Events</a>
+      <a class="navbar-item" href="/podcast">Podcast</a>
+      <a class="navbar-item" target="_new" href="http://brooklynbrainery.us1.list-manage.com/subscribe?u=5c81d74eb694f7170e8582d6f&id=98e99fa109">Newsletter</a>
+    </div>
+  </nav>
+  <div class="title">
+    <h1>
+      <a href="{{ "/" | relURL }}">
+        {{ .Page.Title }}
+      </a>
+    </h1>
+  </div>

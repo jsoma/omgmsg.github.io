@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Masters of Social Gastronomy"
+tinyTitle = "#omgmsg"
+theme = "msg"
+publishDir = "docs"
