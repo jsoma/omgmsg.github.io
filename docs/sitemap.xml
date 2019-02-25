@@ -32,4 +32,8 @@
     <loc>http://example.org/events/</loc>
   </url>
   
+  <url>
+    <loc>http://example.org/old-events-holder/</loc>
+  </url>
+  
 </urlset>

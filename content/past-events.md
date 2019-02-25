@@ -3,12 +3,18 @@ title: "Past Events"
 slug: "events/past"
 ---
 
-Maybe you'd like to hear about our [current events](/events/)?
+**The sensible thing to do** is to just sign up for our [email list](http://brooklynbrainery.us1.list-manage.com/subscribe?u=5c81d74eb694f7170e8582d6f&id=98e99fa109) to know when this stuff comes out.
+
+Or maybe you'd like to hear about our [current events](/events/), or our [podcast](/podcast/) if you're really into this old stuff! 
 
 |Date|Location|Topic|
 |---|---|---|
+|January 28, 2019|Caveat|Romance and Revenge: The History of Aphrodisiacs and Poisons|
+|August 27, 2018|Caveat|The Secret History of Sushi|
+|July 30, 2018|Caveat|The Secret History of Bodegas|
 |May 7, 2018|Kings County Distillery|Illicit Substances|
 |May 8, 2018|Institute of Culinary Education|Strange Meat|
+|April 30, 2018|Caveat|Ice Cream|
 |January 29, 2018|Kings County Distillery|Hometown Booze|
 |October 25, 2017|Kings County Distillery|A History of Drunkenness|
 |September 12, 2017|Institute of Culinary Education|Garlic Mania|

@@ -6,12 +6,6 @@ title: "Upcoming + Past Events"
 
 You can also check out our [past events](/events/past) if you're curious (there's about a million years of them), or our [podcast](/podcast/) if you just can't wait! 
 
-## January 28: Romance and Revenge: The History of Aphrodisiacs and Poisons
-
-Every culture has a long history of aphrodisiacs – love-inducing and libido-promoting foods, ranging from the commonplace to the esoteric. Is chocolate the rightful king of Valentines Day, or could we do better with a tiger’s unmentionables? Let’s trace the history of these foxy foods and see what science has to say about their amorous assertions.
-
-First comes loves, then comes marriage, then comes a little bit of rat poison in their coffee cup. When love goes wrong, out comes the Victorian obsession with female poisoners: delicate and seductive, these ladies made headlines in the age of yellow journalism for offing their lovers with poisoned food. Come hear their stories and... hey, does this taste like almonds to you?
-
 ## February 25: What Goes in, Must Come Out: The Secret Life of Your Gastrointestinal Intestinal Tract
 
 What's the story with your microbiome, all those little microbes living in your gut? Soma takes apart the science behind the ecology of our insides, including laying down the law about pro- and anti-biotics.
