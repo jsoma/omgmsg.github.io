@@ -3,37 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://omgmsg.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
+    <loc>http://omgmsg.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://omgmsg.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/podcast/</loc>
+    <loc>http://omgmsg.com/podcast/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/events/past/</loc>
+    <loc>http://omgmsg.com/events/past/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
+    <loc>http://omgmsg.com/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/events/</loc>
+    <loc>http://omgmsg.com/events/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/old-events-holder/</loc>
+    <loc>http://omgmsg.com/old-events-holder/</loc>
   </url>
   
 </urlset>

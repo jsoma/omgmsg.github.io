@@ -9,7 +9,15 @@ Or maybe you'd like to hear about our [current events](/events/), or our [podcas
 
 |Date|Location|Topic|
 |---|---|---|
-|January 28, 2019|Caveat|Romance and Revenge: The History of Aphrodisiacs and Poisons|
+|November 25, 2019|Caveat|Thanksgiving pies|
+|October 28, 2019|Caveat|The World’s Most Terrifying Food Stories|
+|September 30, 2019|Caveat|Can you Milk it? The Science and History of Plant Milks|
+|August 26, 2019|Caveat|Breakfast! The Most Important Meal of the Day?|
+|July 29, 2019|Caveat|The History and Science of Wine|
+|June 24, 2019|Caveat|The Secrets of Fake Meat|
+|April 29, 2019|Caveat|Diners, Diners and Diners!|
+|March 25, 2019|Caveat|Burnin' Down the Mouth: the Secrets of Spicy Foods|
+|February 25, 2019|Caveat|What Goes In, Must Come Out: The Secret Life of Your Gastrointestinal Tract|
 |August 27, 2018|Caveat|The Secret History of Sushi|
 |July 30, 2018|Caveat|The Secret History of Bodegas|
 |May 7, 2018|Kings County Distillery|Illicit Substances|
